@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'shoppingcart',
     'adressmanager',
     'productmanager',
+    'stockmanager',
     'shop',
     'cart'
 ]
